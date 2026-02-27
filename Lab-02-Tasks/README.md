@@ -1,11 +1,8 @@
-# My Web Development Lab Portfolio
+# CS-224L Web Technologies Lab
 
-This repository contains my Web Development Lab tasks from UET, including:
+Student: Iqra Afridi  
+Instructor: Mr. Mohammad  
+Department: Computer Science  
+University: UET Peshawar  
 
-- Personal Profile Page
-- Weekly Course Schedule
-- Navigation Menu
-- Student Registration Form
-- Portfolio Landing Page
-
-All pages are deployed on GitHub Pages.
+This repository contains HTML and CSS lab tasks deployed using GitHub Pages.
